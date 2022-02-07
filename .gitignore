@@ -33,3 +33,5 @@ nbdist/
 
 #Eclipse
 .settings/
+.classpath
+.project
